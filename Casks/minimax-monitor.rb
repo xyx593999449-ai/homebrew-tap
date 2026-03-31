@@ -1,6 +1,6 @@
 cask "minimax-monitor" do
   version "1.0.0"
-  sha256 "573b80d8195e8f045133f442192544eb9bbbaff9391539aa3d8257c5f782ee39"
+  sha256 "6c44314f04b0eb24308fc1aa8c81b4149be4988fa40c2a3ba2331c81423ad90d"
 
   url "https://github.com/xyx593999449-ai/homebrew-tap/releases/download/v1.0.0/MinimaxMonitor_Installer.dmg"
   name "Minimax Monitor"
