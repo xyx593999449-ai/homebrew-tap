@@ -1,8 +1,8 @@
 cask "minimax-monitor" do
-  version "1.0.0"
-  sha256 "6c44314f04b0eb24308fc1aa8c81b4149be4988fa40c2a3ba2331c81423ad90d"
+  version "1.1.0"
+  sha256 "53d8869885708d04643b2c1638babb0b5b80ea79be45e0bf632a4d5c7b1ac25f"
 
-  url "https://github.com/xyx593999449-ai/homebrew-tap/releases/download/v1.0.0/MinimaxMonitor_Installer.dmg"
+  url "https://github.com/xyx593999449-ai/homebrew-tap/releases/download/v#{version}/MinimaxMonitor_Installer.dmg"
   name "Minimax Monitor"
   desc "macOS 状态栏 MiniMax Token 用量监控工具"
   homepage "https://github.com/xyx593999449-ai/homebrew-tap"
