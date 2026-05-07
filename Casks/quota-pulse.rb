@@ -1,10 +1,10 @@
 cask "quota-pulse" do
-  version "2.2.1"
-  sha256 "c239b28a42cb1e03cd55ef193e88d7a84e9c491105661158a2924e58f72b8a4a"
+  version "2.3.0"
+  sha256 "ad727347d240b1130926da029af8b8d81eab8cb1af27fe0e8f48f954b4973e16"
 
   url "https://github.com/xyx593999449-ai/homebrew-tap/releases/download/v#{version}/QuotaPulse_Installer.dmg"
   name "QuotaPulse"
-  desc "macOS 状态栏多源额度监控工具（MiniMax/Codex/Antigravity）"
+  desc "macOS 状态栏多源额度监控工具（MiniMax/智谱/DeepSeek/Codex/Antigravity）"
   homepage "https://github.com/xyx593999449-ai/homebrew-tap"
 
   app "QuotaPulse.app"
