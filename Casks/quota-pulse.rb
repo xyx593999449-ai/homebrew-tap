@@ -1,6 +1,6 @@
 cask "quota-pulse" do
-  version "2.3.0"
-  sha256 "ad727347d240b1130926da029af8b8d81eab8cb1af27fe0e8f48f954b4973e16"
+  version "2.3.1"
+  sha256 "4a3b7cb389e22570857fa955c0725a8c6527fbb85e2c6841c2921c8a1fb4fdda"
 
   url "https://github.com/xyx593999449-ai/homebrew-tap/releases/download/v#{version}/QuotaPulse_Installer.dmg"
   name "QuotaPulse"
